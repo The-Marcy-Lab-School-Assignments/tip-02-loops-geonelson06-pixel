@@ -4,7 +4,6 @@ const printSquareNumbers = (n) => {
   
 
   for (let i = 1; i < n; i++)
-    let sqr = i * i;
     console.log(sqr);
     total += sqr
 }
